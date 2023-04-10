@@ -1,0 +1,11 @@
+First install termux api apk 
+Tool twallpaper install  command 
+$ termux-stup-storage
+$ pkg install python
+$ pkg install termux-api
+$ pkg install git
+$ termux-storage-setup
+$ pkg install python3
+$https://github.com/khilesh114/twallpaper
+$ cd twallpaper
+$ python3 main.py
